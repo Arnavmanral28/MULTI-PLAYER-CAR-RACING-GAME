@@ -43,5 +43,5 @@ class Player {
     database.ref('/').update({
       carsAtEnd: rank
     }); 
-  }
+  } 
 }
